@@ -1,3 +1,7 @@
+Python Scientific Computing with Python Projects
+Arithmetic formatter assignment for FreeCodeCamp. The section below explains all of the steps required to complete this assignment.
+
+Full Documentation: Documentation
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
